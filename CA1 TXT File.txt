@@ -1,0 +1,3 @@
+member=Tara
+Coding Basics; 4 November 2026; 2pm
+Learning Github; 20 November 2026; 11am
