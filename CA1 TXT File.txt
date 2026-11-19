@@ -4,3 +4,6 @@ Learning Github; 20 November 2026; 11am
 Advanced Programming; 3 December 2026; 6pm
 Cake Baking; 2 January 2027; 5:30pm
 HTTP Basics; 27 February 2027; 12pm
+error line
+test line
+Good Coding; 4 March 2026; 3pm
